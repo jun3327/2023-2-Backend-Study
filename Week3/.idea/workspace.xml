@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b14af29-013f-4829-bf4f-4ab07a494afd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/WIL3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,10 +35,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": -1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: -1
+}</component>
   <component name="ProjectId" id="2W7WflKxQ86mQPC8EcGvVufZdjx" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -60,6 +60,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "settings.editor.selected.configurable": "settings.sync",
+    "spring.configuration.checksum": "15f18b836258ebb63c4dfa50c04742e0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -96,7 +97,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696084205004</updated>
-      <workItem from="1696084206535" duration="1527000" />
+      <workItem from="1696084206535" duration="1604000" />
+      <workItem from="1696087021053" duration="13000" />
     </task>
     <servers />
   </component>
