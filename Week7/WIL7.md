@@ -22,22 +22,17 @@
       - 위 코드에서 MedicalDepartment와 Hopsital 엔티티 사이에도 lazy 설정이 되어있어 전부 페치 조인했다. 과제에서는 직접 엔티티를 응답 API에 노출하고 있기 때문에 어쩔 수 없지만 DTO를 사용한다면 필요한 값만 골라 페치 조인해서 반환하면 될듯하다
 ------------------------------------------------------
 #### 2. 예시 api테스트 결과
-- getHospitals
-![getHospitals](https://github.com/jun3327/2023-2-Backend-Study/assets/121341289/4420bd99-a881-4af1-89f0-77075385ca2c)
-- getHospitalByName
-![getHospitalByName](https://github.com/jun3327/2023-2-Backend-Study/assets/121341289/32c44133-ef75-4b81-ba17-4ee55af391e0)
-- getMedicalDepartments
-![getMedicalDepartments](https://github.com/jun3327/2023-2-Backend-Study/assets/121341289/e35f2fba-0644-4edd-a7d1-90d5b14270c5)
 
+  <img src="https://github.com/jun3327/2023-2-Backend-Study/assets/121341289/4420bd99-a881-4af1-89f0-77075385ca2c" width="500">
+------------------------------------------------------
+  <img src="https://github.com/jun3327/2023-2-Backend-Study/assets/121341289/32c44133-ef75-4b81-ba17-4ee55af391e0" width="500">
+------------------------------------------------------
+  <img src="https://github.com/jun3327/2023-2-Backend-Study/assets/121341289/e35f2fba-0644-4edd-a7d1-90d5b14270c5" width="500">
 ------------------------------------------------------
 #### 3. 프로그램 구현(환자, 의사, 예약) api 테스트 결과
-- getPatients
-![getPatients](https://github.com/jun3327/2023-2-Backend-Study/assets/121341289/4fa5492d-8c2f-4636-8003-b461356bdd7a)
 
-
-- getDoctors
-![getDoctors](https://github.com/jun3327/2023-2-Backend-Study/assets/121341289/d93dc77e-47b3-460c-acdf-87e5d8d35447)
-
-  
-- getReservations
-![getReservations](https://github.com/jun3327/2023-2-Backend-Study/assets/121341289/521a7fde-ac78-4b4d-81b1-74c2ceca87e0)
+  <img src="https://github.com/jun3327/2023-2-Backend-Study/assets/121341289/4fa5492d-8c2f-4636-8003-b461356bdd7a" width="500">
+------------------------------------------------------
+  <img src="https://github.com/jun3327/2023-2-Backend-Study/assets/121341289/d93dc77e-47b3-460c-acdf-87e5d8d35447" width="500">
+------------------------------------------------------
+  <img src="https://github.com/jun3327/2023-2-Backend-Study/assets/121341289/521a7fde-ac78-4b4d-81b1-74c2ceca87e0" width="500">
